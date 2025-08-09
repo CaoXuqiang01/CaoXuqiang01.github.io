@@ -12,11 +12,11 @@ header {
     background: rgba(255, 255, 255, 0.8);
     backdrop-filter: blur(10px);
     border-bottom: 1px solid #eee;
-    padding: 1rem 5%;
+    padding: 1rem 10%;
     position: sticky;
     top: 0;
     z-index: 1000;
-    width: 90%;
+    width: 80%;
 }
 
 nav {
@@ -299,5 +299,6 @@ footer {
     .journal-entry { flex-direction: column; }
     .journal-entry img { width: 100%; height: auto; }
 }
+
 
 
